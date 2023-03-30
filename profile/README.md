@@ -12,7 +12,7 @@ AO.space Platform provides personal devices with transparent communication chann
 
 Website：https://ao.space
 
-Eailbox: service@ao.space
+Eailbox: developer@ao.space
 
 ### 项目介绍
 
@@ -26,5 +26,5 @@ AO.space Platform（即傲空间平台），则为个人设备提供透明通信
 
 网站：https://ao.space
 
-邮箱：service@ao.space
+邮箱：developer@ao.space
 
