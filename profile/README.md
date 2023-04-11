@@ -12,7 +12,7 @@ AO.space Platform provides personal devices with transparent communication chann
 
 Website：https://ao.space
 
-Eailbox: developer@ao.space
+Email: developer@ao.space
 
 ### 项目介绍
 
