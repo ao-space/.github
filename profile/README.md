@@ -15,7 +15,7 @@ AO.space is a solution that focuses on protecting personal data security and pri
 
 AO.space is composed of three parts: server-side, client-side, and platform-side. The server-side and client-side run on personal devices and establish encrypted communication channels with public key authentication. The server-side supports x86_64 and aarch64 architectures and can run on personal servers, computers, or other similar devices. The client-side supports Android, iOS, and Web platforms, providing users with the convenience of using AO.space anywhere and anytime. For platform side, user can either use the default platform provided by AO.space or deploy by own. In both cases, the platform provides network communication services without the capability to decipher user data.
 
-![avatar](img/main_pic.png)
+![avatar](./assets/main_pic.png)
 
 ### Main features
 
@@ -44,7 +44,7 @@ AO.space is composed of three parts: server-side, client-side, and platform-side
 
 The AO.space system is composed of three main components: the server, the platform, and the client. The server is built into the device (also known as AO.space box). The platform offers fundamental network resources and relevant management. The client includes Web, iOS, Android platforms. Below is a general architectural design diagram for these components. We will go through each component and provide further details for them.
 
-![avatar](img/architecture.png)
+![avatar](./assets/architecture.png)
 
 For detailed architecture design, please refer to the [Architecture](./architecture-design.md) document
 
