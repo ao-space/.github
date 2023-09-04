@@ -50,7 +50,7 @@ For detailed architecture design, please refer to the [Architecture](./architect
 
 ## Deploy AO.space
 
-Please check [AO.space build and deploy](https://github.com/ao-space/ao.space/blob/dev/docs/cn/build-and-deploy.md)
+Please check [AO.space build and deploy](https://github.com/ao-space/ao.space/blob/dev/docs/build-and-deploy.md)
 
 ## Contact us
 
