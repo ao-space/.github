@@ -110,7 +110,7 @@ If you encounter difficulties in using it, you can check AO.space [Help](https:/
 
 详细架构设计请查阅文档 [架构](https://ao.space/docs/architecture-design)
 
-## 部署傲空间
+## 安装傲空间
 
 请查阅 [傲空间部署构建](https://github.com/ao-space/ao.space/blob/dev/docs/cn/build-and-deploy.md)
 
