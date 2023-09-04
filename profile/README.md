@@ -6,7 +6,7 @@ Through this article you can learn the following:
 
 - [What is AO.space](#what-is-ao.space)
 - [Architecture Design](#architecture-design)
-- [Install](#install)
+- [Build and deploy](#build-and-deploy)
 - [Contact us](#contact-us)
 
 ## What is AO.space
@@ -48,7 +48,7 @@ The AO.space system is composed of three main components: the server, the platfo
 
 For detailed architecture design, please refer to the [Architecture](./architecture-design.md) document
 
-## Deploy AO.space
+## Build and deploy
 
 Please check [AO.space build and deploy](https://github.com/ao-space/ao.space/blob/dev/docs/build-and-deploy.md)
 
