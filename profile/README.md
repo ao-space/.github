@@ -77,7 +77,7 @@ If you encounter difficulties in using it, you can check AO.space [Help](https:/
 
 **AO.space 傲空间**由服务端、客户端、平台端三个部分组成。服务端和客户端只运行在个人设备上，使用公钥认证建立加密通信通道。服务端是傲空间管理保护用户数据的核心部分，目前支持 x86_64 和 aarch64 两个架构，可运行在个人服务器、个人计算机等设备上。客户端让用户在不同平台上快速安全的访问个人数据，目前支持 Android，iOS 和 Web，方便用户随时随地使用。平台端既可使用 AO.space 默认提供的平台，也可以自己部署，两种方式下平台都在无法解析用户数据的前提下提供网络通信服务。
 
-![avatar](./assets/main_pic.png)
+![avatar](https://raw.githubusercontent.com/ao-space/.github/main/profile/assets/main_pic.png)
 
 ### 主要特性
 
@@ -106,7 +106,7 @@ If you encounter difficulties in using it, you can check AO.space [Help](https:/
 
 傲空间系统由三个主要部分构成：服务端、客户端和平台端。服务端为个人空间的核心，部署于个人长期运行的并且联网的设备中，如个人服务器、个人计算机等。客户端为个人日常使用的电子设备，如手机、平板、个人电脑等，目前傲空间提供 Web、iOS 和 Android 等客户端。平台端在无法解析用户数据的前提下，为个人空间提供基础网络访问、安全防护等服务。以下是总体的架构设计草图和基础组件的详细信息。
 
-![avatar](./assets/architecture.png)
+![avatar](https://raw.githubusercontent.com/ao-space/.github/main/profile/assets/architecture.png)
 
 详细架构设计请查阅文档 [架构](https://ao.space/docs/architecture-design)
 
